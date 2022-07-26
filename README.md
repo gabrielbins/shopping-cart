@@ -20,7 +20,7 @@ O projeto consiste em uma aplicação de **carrinho de compras**, foi desenvolvi
  * Instale as dependências:
     * `npm install`
  
-* Rode a aplicação atraves da extensão Go Live do VSCode
+* Rode a aplicação atraves da extensão **Go Live** do **VSCode**
 </details>
 
 
