@@ -1,3 +1,25 @@
+### Introdução
+O projeto consiste em uma aplicação de **carrinho de compras**, foi desenvolvido com o objetivo de aplicar e avaliar os conhecimentos obtidos atraves do curso de desenvolvedor web Full Stack oferecido pela Trybe.
+
+### Tecnologias e Habilidades aplicadas 
+
+- Fazer requisições a uma API do Mercado Livre;
+- JavaScript;
+- Conhecimento de LocalStorage
+- CSS e HTML;
+- Trabalhar com funções assíncronas;
+- Implementar testes unitários.
+
+
+<details>
+<summary><strong>Como rodar a aplicação</strong></summary><br />
+
+</details>
+
+
+
+
+
 <details>
 <summary><strong>Avaliação do curso</strong></summary><br />
 ### Termos de acordos
