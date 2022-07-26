@@ -13,7 +13,11 @@ O projeto consiste em uma aplicação de **carrinho de compras**, foi desenvolvi
 
 <details>
 <summary><strong>Como rodar a aplicação</strong></summary><br />
-
+-No terminal clone o repositorio atraves do comando:
+`git clone git@github.com:gabrielbins/shopping-cart.git`
+  * Instale as dependências:
+    * `npm install`
+- Rode a aplicação atraves da extensão Go Live do VSCode
 </details>
 
 
